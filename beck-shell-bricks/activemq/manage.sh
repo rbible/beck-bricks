@@ -1,0 +1,1 @@
+./activemq stop|start|restart

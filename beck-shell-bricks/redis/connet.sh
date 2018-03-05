@@ -1,0 +1,1 @@
+redis-cli -h ip -p port -a pass
